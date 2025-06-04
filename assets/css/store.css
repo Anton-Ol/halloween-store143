@@ -1,0 +1,40 @@
+a {
+    text-decoration: none;
+    
+  }
+
+  a:hover {
+    text-decoration: underline;
+  }
+
+ .färg{
+    background-color: #8B4513;
+ }
+ .färg:hover{
+    text-decoration: none;
+    background-color: #8A2BE2;
+ }
+ h1{
+   text-shadow: 2px 2px 4px #FF7F32;
+   font-family:creepsville;
+
+ }
+ h5{
+   text-shadow: 2px 2px 4px #db8855;
+   font-family:creepsville;
+ }
+
+ .logga{
+   width: 3em;
+   height: auto;
+   padding:0;
+   margin:0;
+ }
+
+ body{
+   font-family: serif;
+   
+ }
+ .card-body{
+  
+ }

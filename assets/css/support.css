@@ -1,0 +1,41 @@
+.storlek{
+    font-size: 0.7em;
+}
+
+.support{
+    background-color: rgba(230, 230, 230, 0.742);
+}
+.support1{
+    background-color: rgba(229, 229, 229, 0.742);
+}
+
+.body{
+    background-color:rgba(229, 229, 229, 0.742) ;
+    font-family: serif;
+    
+}
+h1{
+    text-shadow: 2px 2px 4px #FF7F32;
+    font-family:creepsville;
+}
+.extra{
+    text-shadow: 2px 2px 4px #db8855;
+    font-family:creepsville;
+}
+
+
+
+@font-face {
+    font-family: creepsville;
+    src: url("../../creepsville.ttf");
+}
+
+
+
+
+.logga{
+    width: 3em;
+    height: auto;
+    padding:0;
+    margin:0;
+  }

@@ -1,0 +1,84 @@
+.container {
+    display: flex; /* Aktiverar flexbox */
+    flex-direction: column; /* Stack categories vertically */
+    gap: 0.2em; /* Skapar mellanrum mellan bilderna */
+    justify-content: center;
+    
+}
+
+
+body{
+    background-image: url(../images/image-from-rawpixel-id-12583175-jpeg.webp);
+    background-size: cover;
+    font-family: serif;
+  
+    text-shadow: 1px 1px 1px #3d014b,
+    2px 2px 1px #3d014b;
+    
+  
+
+}
+   
+
+
+
+img {
+    width: 10em; /* Justera storleken på bilderna om nödvändigt */
+    height: auto;
+}
+
+.container2{
+    display: flex; /* Aktiverar flexbox */
+    gap: 1em; /* Skapar mellanrum mellan bilderna */
+    justify-content: center;
+}
+
+.container3{
+    display: flex; /* Aktiverar flexbox */
+    gap: 2em; /* Skapar mellanrum mellan bilderna */
+    justify-content: center;
+}
+
+
+.back{
+    background-color: rgb(27, 27, 39);
+}
+
+.logga{
+    width: 3em;
+    height: auto;
+    padding:0;
+    margin:0;
+  }
+
+  .container4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+.contrast{
+  
+    width: 20em;
+    height: auto;
+   
+   
+  
+}
+
+.färgfan{
+    color: #ff7f32;
+}
+
+
+a {
+    text-decoration: none;
+    
+  }
+
+  a:hover {
+    text-decoration: underline;
+  }
+  .storlek{
+    font-size: 0.7em;
+}

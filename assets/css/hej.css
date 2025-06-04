@@ -1,0 +1,11 @@
+
+.bild {
+    width:20em;
+    height:auto;
+}
+
+.storeb{
+    height: 10em;
+    object-fit: cover;
+    width: 100%;
+}

@@ -1,0 +1,85 @@
+
+.bild {
+    width:20em;
+    height:auto;
+}
+.storlek {
+    width: 10em;
+    height: auto;
+}
+.container-grid{
+display:grid;
+justify-content: center;
+min-width: auto;
+
+}
+.carousel-inner {
+    max-width: 70vw;
+    min-width: 70vw;
+    box-shadow: #0002 12px 12px;
+}
+.carousel caption {
+max-width: 50vw;
+color: darkslategrey
+
+}
+.carousel-item a{
+    color: #8A2BE2;
+    
+}
+
+.carousel img {
+    max-width: 70vw;
+    min-width: 70;
+    border: #1c0a2dce solid 5px;
+    border-radius: 5px;
+}
+
+body{
+    background-image: url(../images/image-from-rawpixel-id-12583175-jpeg.webp);
+    background-size: cover;
+}
+.card{ border:#1c0a2dce solid 5px;
+    border-radius:10px;
+    box-shadow: #0002 12px 12px;
+}
+.card-body{
+background-color: darkgrey;
+}
+.btn-primary{
+    background-color:rgb(53, 13, 62);
+    border:2px solid #8A2BE2;
+}
+.btn-primary:hover{
+    text-decoration: none;
+    background-color: #8A2BE2;
+}
+.btn-secondary{
+    background-color: black
+}
+.btn-secondary:hover{
+    text-decoration:none;
+    background-color:#8A2BE2;
+}
+
+footer.footer{
+    text-decoration: none;
+}
+body{
+    font-family: serif;
+    
+}
+
+a {
+    text-decoration: none;
+    
+  }
+
+  a:hover {
+    text-decoration: underline;
+  }
+
+  .storlekny{
+    font-size: 0.8em;
+    
+  }

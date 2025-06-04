@@ -1,0 +1,44 @@
+ body {
+   
+    background-color: #1a1a1a;
+    color: #f2f2f2;
+    margin: 0;
+    padding: 20px;
+    font-family: serif;
+
+   
+}
+.containers {
+    max-width: 800px;
+    margin: auto;
+    background: #2c2c2c;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(255, 165, 0, 0.5);
+    color: white;
+   
+}
+.he1 {
+    color: #ff6600;
+    text-align: center;
+}
+.he2 {
+    color: #ff9933;
+}
+.containers p {
+    line-height: 1.6;
+}
+a {
+    color: #ffcc00;
+    text-decoration: none;
+}
+
+
+.containers a:hover {
+    text-decoration: underline;
+}
+
+.storlek{
+    font-size: 0.7em;
+    
+  }
